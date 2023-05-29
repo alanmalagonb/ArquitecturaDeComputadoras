@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="monociclo_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="monociclo_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="999,991 ps"></ZoomStartTime>
+      <ZoomEndTime time="1,000,004 ps"></ZoomEndTime>
+      <Cursor1Time time="1,000,000 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="325"></NameColumnWidth>
+      <ValueColumnWidth column_width="157"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="30" />
+   <wvobject fp_name="/monociclo_tb/clk_i" type="logic">
+      <obj_property name="ElementShortName">clk_i</obj_property>
+      <obj_property name="ObjectShortName">clk_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/rst_ni" type="logic">
+      <obj_property name="ElementShortName">rst_ni</obj_property>
+      <obj_property name="ObjectShortName">rst_ni</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/wb_datard_o" type="array">
+      <obj_property name="ElementShortName">wb_datard_o[63:0]</obj_property>
+      <obj_property name="ObjectShortName">wb_datard_o[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/pcb_pcsrc_o_o" type="array">
+      <obj_property name="ElementShortName">pcb_pcsrc_o_o[63:0]</obj_property>
+      <obj_property name="ObjectShortName">pcb_pcsrc_o_o[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/pc_next_o" type="array">
+      <obj_property name="ElementShortName">pc_next_o[63:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_next_o[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/pc_gen_o" type="array">
+      <obj_property name="ElementShortName">pc_gen_o[63:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_gen_o[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/icache_inst_o_o" type="array">
+      <obj_property name="ElementShortName">icache_inst_o_o[63:0]</obj_property>
+      <obj_property name="ObjectShortName">icache_inst_o_o[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/id_opcode_w_o" type="array">
+      <obj_property name="ElementShortName">id_opcode_w_o[6:0]</obj_property>
+      <obj_property name="ObjectShortName">id_opcode_w_o[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/id_addrs1_w_o" type="array">
+      <obj_property name="ElementShortName">id_addrs1_w_o[4:0]</obj_property>
+      <obj_property name="ObjectShortName">id_addrs1_w_o[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/id_addrs2_w_o" type="array">
+      <obj_property name="ElementShortName">id_addrs2_w_o[4:0]</obj_property>
+      <obj_property name="ObjectShortName">id_addrs2_w_o[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/id_addrd_w_o" type="array">
+      <obj_property name="ElementShortName">id_addrd_w_o[4:0]</obj_property>
+      <obj_property name="ObjectShortName">id_addrd_w_o[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/id_aluop_w_o" type="array">
+      <obj_property name="ElementShortName">id_aluop_w_o[3:0]</obj_property>
+      <obj_property name="ObjectShortName">id_aluop_w_o[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/id_alusrc_o_o" type="logic">
+      <obj_property name="ElementShortName">id_alusrc_o_o</obj_property>
+      <obj_property name="ObjectShortName">id_alusrc_o_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/id_regwrite_o_o" type="logic">
+      <obj_property name="ElementShortName">id_regwrite_o_o</obj_property>
+      <obj_property name="ObjectShortName">id_regwrite_o_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/id_memread_o_o" type="logic">
+      <obj_property name="ElementShortName">id_memread_o_o</obj_property>
+      <obj_property name="ObjectShortName">id_memread_o_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/id_memwrite_o_o" type="logic">
+      <obj_property name="ElementShortName">id_memwrite_o_o</obj_property>
+      <obj_property name="ObjectShortName">id_memwrite_o_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/id_branch_o_o" type="logic">
+      <obj_property name="ElementShortName">id_branch_o_o</obj_property>
+      <obj_property name="ObjectShortName">id_branch_o_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/id_memtoreg_o_o" type="logic">
+      <obj_property name="ElementShortName">id_memtoreg_o_o</obj_property>
+      <obj_property name="ObjectShortName">id_memtoreg_o_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/id_aluop_o_o" type="array">
+      <obj_property name="ElementShortName">id_aluop_o_o[2:0]</obj_property>
+      <obj_property name="ObjectShortName">id_aluop_o_o[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/id_pcregwrite_o_o" type="logic">
+      <obj_property name="ElementShortName">id_pcregwrite_o_o</obj_property>
+      <obj_property name="ObjectShortName">id_pcregwrite_o_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/rr_datars1_o_o" type="array">
+      <obj_property name="ElementShortName">rr_datars1_o_o[63:0]</obj_property>
+      <obj_property name="ObjectShortName">rr_datars1_o_o[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/rr_datars2_o_o" type="array">
+      <obj_property name="ElementShortName">rr_datars2_o_o[63:0]</obj_property>
+      <obj_property name="ObjectShortName">rr_datars2_o_o[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/wb_datard_o_o" type="array">
+      <obj_property name="ElementShortName">wb_datard_o_o[63:0]</obj_property>
+      <obj_property name="ObjectShortName">wb_datard_o_o[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/se_datars2_o_o" type="array">
+      <obj_property name="ElementShortName">se_datars2_o_o[63:0]</obj_property>
+      <obj_property name="ObjectShortName">se_datars2_o_o[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/sl_datars2_o_o" type="array">
+      <obj_property name="ElementShortName">sl_datars2_o_o[63:0]</obj_property>
+      <obj_property name="ObjectShortName">sl_datars2_o_o[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/pcb_pc_o_o" type="array">
+      <obj_property name="ElementShortName">pcb_pc_o_o[63:0]</obj_property>
+      <obj_property name="ObjectShortName">pcb_pc_o_o[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/ex_branchflag_o_o" type="logic">
+      <obj_property name="ElementShortName">ex_branchflag_o_o</obj_property>
+      <obj_property name="ObjectShortName">ex_branchflag_o_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/muxalusrc_datars2_w_o" type="array">
+      <obj_property name="ElementShortName">muxalusrc_datars2_w_o[63:0]</obj_property>
+      <obj_property name="ObjectShortName">muxalusrc_datars2_w_o[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/ex_datard_o_o" type="array">
+      <obj_property name="ElementShortName">ex_datard_o_o[63:0]</obj_property>
+      <obj_property name="ObjectShortName">ex_datard_o_o[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/monociclo_tb/mem_datard_o_o" type="array">
+      <obj_property name="ElementShortName">mem_datard_o_o[63:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_datard_o_o[63:0]</obj_property>
+   </wvobject>
+</wave_config>

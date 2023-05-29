@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_reg_dat_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_reg_dat" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="215.401 ns"></ZoomEndTime>
+      <Cursor1Time time="165.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="242"></NameColumnWidth>
+      <ValueColumnWidth column_width="107"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="4" />
+   <wvobject fp_name="/tb_reg_dat/B_i" type="logic">
+      <obj_property name="ElementShortName">B_i</obj_property>
+      <obj_property name="ObjectShortName">B_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_reg_dat/rst_i" type="logic">
+      <obj_property name="ElementShortName">rst_i</obj_property>
+      <obj_property name="ObjectShortName">rst_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_reg_dat/DM_i" type="array">
+      <obj_property name="ElementShortName">DM_i[3:0]</obj_property>
+      <obj_property name="ObjectShortName">DM_i[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_reg_dat/RD_o" type="array">
+      <obj_property name="ElementShortName">RD_o[3:0]</obj_property>
+      <obj_property name="ObjectShortName">RD_o[3:0]</obj_property>
+   </wvobject>
+</wave_config>

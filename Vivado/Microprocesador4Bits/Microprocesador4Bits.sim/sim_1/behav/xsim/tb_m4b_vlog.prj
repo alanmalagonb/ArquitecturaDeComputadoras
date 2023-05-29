@@ -1,0 +1,28 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Microprocesador4Bits.srcs/sources_1/new/acc.v" \
+"../../../../Microprocesador4Bits.srcs/sources_1/new/act.v" \
+"../../../../Microprocesador4Bits.srcs/sources_1/new/alu.v" \
+"../../../../Microprocesador4Bits.srcs/sources_1/new/deco_ins.v" \
+"../../../../Microprocesador4Bits.srcs/sources_1/new/gcm.v" \
+"../../../../Microprocesador4Bits.srcs/sources_1/new/pc.v" \
+"../../../../Microprocesador4Bits.srcs/sources_1/new/reg_dat.v" \
+"../../../../Microprocesador4Bits.srcs/sources_1/new/reg_ins.v" \
+"../../../../Microprocesador4Bits.srcs/sources_1/new/mp4b.v" \
+"../../../../Microprocesador4Bits.srcs/sources_1/new/rom.v" \
+"../../../../Microprocesador4Bits.srcs/sim_1/new/tb_acc.v" \
+"../../../../Microprocesador4Bits.srcs/sim_1/new/tb_act.v" \
+"../../../../Microprocesador4Bits.srcs/sim_1/new/tb_reg_ins.v" \
+"../../../../Microprocesador4Bits.srcs/sim_1/new/tb_pc.v" \
+"../../../../Microprocesador4Bits.srcs/sim_1/new/tb_alu.v" \
+"../../../../Microprocesador4Bits.srcs/sim_1/new/tb_deco_ins.v" \
+"../../../../Microprocesador4Bits.srcs/sim_1/new/tb_gcm.v" \
+"../../../../Microprocesador4Bits.srcs/sim_1/new/tb_reg_dat.v" \
+"../../../../Microprocesador4Bits.srcs/sim_1/new/tb_mp4b.v" \
+"../../../../Microprocesador4Bits.srcs/sim_1/new/tb_rom.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

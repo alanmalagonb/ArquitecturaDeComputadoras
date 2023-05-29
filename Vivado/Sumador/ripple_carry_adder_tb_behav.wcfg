@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="ripple_carry_adder_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="ripple_carry_adder_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="50.001 ns"></ZoomEndTime>
+      <Cursor1Time time="49.952 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="184"></NameColumnWidth>
+      <ValueColumnWidth column_width="90"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="4" />
+   <wvobject fp_name="/ripple_carry_adder_tb/r_ADD_1" type="array">
+      <obj_property name="ElementShortName">r_ADD_1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">r_ADD_1[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ripple_carry_adder_tb/r_ADD_2" type="array">
+      <obj_property name="ElementShortName">r_ADD_2[1:0]</obj_property>
+      <obj_property name="ObjectShortName">r_ADD_2[1:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ripple_carry_adder_tb/w_RESULT" type="array">
+      <obj_property name="ElementShortName">w_RESULT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">w_RESULT[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFD700</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ripple_carry_adder_tb/WIDTH" type="array">
+      <obj_property name="ElementShortName">WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">WIDTH[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+</wave_config>

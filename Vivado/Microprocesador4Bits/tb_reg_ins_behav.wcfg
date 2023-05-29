@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_reg_ins_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_reg_ins" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="249,993 ps"></ZoomStartTime>
+      <ZoomEndTime time="250,002 ps"></ZoomEndTime>
+      <Cursor1Time time="250,000 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="242"></NameColumnWidth>
+      <ValueColumnWidth column_width="107"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="4" />
+   <wvobject fp_name="/tb_reg_ins/A_i" type="logic">
+      <obj_property name="ElementShortName">A_i</obj_property>
+      <obj_property name="ObjectShortName">A_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_reg_ins/rst_i" type="logic">
+      <obj_property name="ElementShortName">rst_i</obj_property>
+      <obj_property name="ObjectShortName">rst_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_reg_ins/DM_i" type="array">
+      <obj_property name="ElementShortName">DM_i[3:0]</obj_property>
+      <obj_property name="ObjectShortName">DM_i[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_reg_ins/RI_o" type="array">
+      <obj_property name="ElementShortName">RI_o[3:0]</obj_property>
+      <obj_property name="ObjectShortName">RI_o[3:0]</obj_property>
+   </wvobject>
+</wave_config>

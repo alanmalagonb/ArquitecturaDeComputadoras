@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_m4b_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_m4b" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="309.601 ns"></ZoomEndTime>
+      <Cursor1Time time="250.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="242"></NameColumnWidth>
+      <ValueColumnWidth column_width="116"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/tb_m4b/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_m4b/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_m4b/A_out" type="logic">
+      <obj_property name="ElementShortName">A_out</obj_property>
+      <obj_property name="ObjectShortName">A_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_m4b/B_out" type="logic">
+      <obj_property name="ElementShortName">B_out</obj_property>
+      <obj_property name="ObjectShortName">B_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_m4b/C_out" type="logic">
+      <obj_property name="ElementShortName">C_out</obj_property>
+      <obj_property name="ObjectShortName">C_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_m4b/D_out" type="logic">
+      <obj_property name="ElementShortName">D_out</obj_property>
+      <obj_property name="ObjectShortName">D_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_m4b/E_out" type="logic">
+      <obj_property name="ElementShortName">E_out</obj_property>
+      <obj_property name="ObjectShortName">E_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_m4b/DM" type="array">
+      <obj_property name="ElementShortName">DM[3:0]</obj_property>
+      <obj_property name="ObjectShortName">DM[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_m4b/DI_out" type="array">
+      <obj_property name="ElementShortName">DI_out[0:7]</obj_property>
+      <obj_property name="ObjectShortName">DI_out[0:7]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_m4b/RI_out" type="array">
+      <obj_property name="ElementShortName">RI_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">RI_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_m4b/RD_out" type="array">
+      <obj_property name="ElementShortName">RD_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">RD_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_m4b/ACC_out" type="array">
+      <obj_property name="ElementShortName">ACC_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ACC_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_m4b/ACT_out" type="array">
+      <obj_property name="ElementShortName">ACT_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ACT_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_m4b/OP_out" type="array">
+      <obj_property name="ElementShortName">OP_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">OP_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_m4b/Q_out" type="array">
+      <obj_property name="ElementShortName">Q_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Q_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_m4b/PC_o" type="array">
+      <obj_property name="ElementShortName">PC_o[3:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_o[3:0]</obj_property>
+   </wvobject>
+</wave_config>

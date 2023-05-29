@@ -1,0 +1,25 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_acc.v,1679820715,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_act.v,,tb_acc,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_act.v,1679820312,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_reg_ins.v,,tb_act,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_alu.v,1679819929,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_deco_ins.v,,tb_alu,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_deco_ins.v,1679818738,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_gcm.v,,tb_deco_ins,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_gcm.v,1679817870,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_reg_dat.v,,tb_gcm,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_mp4b.v,1680404332,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_rom.v,,tb_m4b,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_pc.v,1679819697,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_alu.v,,tb_pc,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_reg_dat.v,1679819009,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_mp4b.v,,tb_reg_dat,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_reg_ins.v,1679818195,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_pc.v,,tb_reg_ins,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_rom.v,1680404085,verilog,,,,tb_rom,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/acc.v,1679820530,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/act.v,,acc,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/act.v,1679820158,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/alu.v,,act,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/alu.v,1680407101,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/deco_ins.v,,alu,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/deco_ins.v,1680406844,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/gcm.v,,deco_ins,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/gcm.v,1679817687,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/pc.v,,gcm,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/mp4b.v,1680401711,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/rom.v,,mp4b,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/pc.v,1679819593,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/reg_dat.v,,pc,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/reg_dat.v,1679819016,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/reg_ins.v,,reg_dat,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/reg_ins.v,1679818103,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/mp4b.v,,reg_ins,,,,,,,,
+C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sources_1/new/rom.v,1680403089,verilog,,C:/Users/alanm/Desktop/Arqui/Vivado/Microprocesador4Bits/Microprocesador4Bits.srcs/sim_1/new/tb_acc.v,,rom,,,,,,,,

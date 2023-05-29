@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+                   1Contenido de la ROM:
+                  30address= 0, data_rd=e
+                  70address= 1, data_rd=2
+                 110address= 2, data_rd=f
+                 150address= 3, data_rd=4
+$stop called at time : 190100 ps : File "C:/Users/alanm/Desktop/Arqui/Vivado/MemoriaROM2/MemoriaROM2.srcs/sim_1/new/read_file.v" Line 53

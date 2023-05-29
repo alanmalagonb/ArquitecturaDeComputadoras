@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_Mux_2_To_1_Width_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_Mux_2_To_1_Width" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="2.881 ns"></ZoomEndTime>
+      <Cursor1Time time="9.940 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="248"></NameColumnWidth>
+      <ValueColumnWidth column_width="118"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/tb_Mux_2_To_1_Width/i_Select" type="array">
+      <obj_property name="ElementShortName">i_Select[1:0]</obj_property>
+      <obj_property name="ObjectShortName">i_Select[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mux_2_To_1_Width/i_Data1" type="array">
+      <obj_property name="ElementShortName">i_Data1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">i_Data1[7:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mux_2_To_1_Width/i_Data2" type="array">
+      <obj_property name="ElementShortName">i_Data2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">i_Data2[7:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mux_2_To_1_Width/o_Data" type="array">
+      <obj_property name="ElementShortName">o_Data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">o_Data[7:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FF00</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mux_2_To_1_Width/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mux_2_To_1_Width/g_WIDTH" type="array">
+      <obj_property name="ElementShortName">g_WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">g_WIDTH[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
