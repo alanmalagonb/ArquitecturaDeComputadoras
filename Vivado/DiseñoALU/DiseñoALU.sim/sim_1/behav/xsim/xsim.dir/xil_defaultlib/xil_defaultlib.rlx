@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/alanm/Documents/GitHub/ArquitecturaDeComputadoras/Vivado/DiseñoALU/DiseñoALU.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/alanm/Documents/GitHub/ArquitecturaDeComputadoras/Vivado/DiseñoALU/DiseñoALU.srcs/sim_1/new/ALU_tb.v,1685659581,verilog,,,,ALU_tb,,,,,,,,
+C:/Users/alanm/Documents/GitHub/ArquitecturaDeComputadoras/Vivado/DiseñoALU/DiseñoALU.srcs/sim_1/new/single_cycle_tb.v,1685656372,verilog,,,,single_cycle_tb,,,,,,,,
+C:/Users/alanm/Documents/GitHub/ArquitecturaDeComputadoras/Vivado/DiseñoALU/DiseñoALU.srcs/sim_1/new/three_cycle_tb.v,1685646266,verilog,,,,three_cycle_tb,,,,,,,,
+C:/Users/alanm/Documents/GitHub/ArquitecturaDeComputadoras/Vivado/DiseñoALU/DiseñoALU.srcs/sources_1/new/ALU.v,1685659191,verilog,,C:/Users/alanm/Documents/GitHub/ArquitecturaDeComputadoras/Vivado/DiseñoALU/DiseñoALU.srcs/sim_1/new/ALU_tb.v,,ALU,,,,,,,,
+C:/Users/alanm/Documents/GitHub/ArquitecturaDeComputadoras/Vivado/DiseñoALU/DiseñoALU.srcs/sources_1/new/single_cycle.v,1685670290,verilog,,C:/Users/alanm/Documents/GitHub/ArquitecturaDeComputadoras/Vivado/DiseñoALU/DiseñoALU.srcs/sim_1/new/ALU_tb.v,,single_cycle,,,,,,,,
+C:/Users/alanm/Documents/GitHub/ArquitecturaDeComputadoras/Vivado/DiseñoALU/DiseñoALU.srcs/sources_1/new/three_cycle.v,1685648897,verilog,,C:/Users/alanm/Documents/GitHub/ArquitecturaDeComputadoras/Vivado/DiseñoALU/DiseñoALU.srcs/sim_1/new/three_cycle_tb.v,,three_cycle,,,,,,,,

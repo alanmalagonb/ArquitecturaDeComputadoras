@@ -1,0 +1,21 @@
+Time resolution is 1 ps
+Time=                   0, A=0a, B=05, op=000, result=xxxx, done=x
+Time=                5000, A=0a, B=05, op=000, result=0000, done=1
+Time=               15000, A=0a, B=05, op=000, result=0000, done=0
+Time=               30000, A=0a, B=05, op=001, result=0000, done=0
+Time=               35000, A=0a, B=05, op=001, result=000f, done=1
+Time=               40000, A=0a, B=05, op=001, result=000f, done=0
+Time=               60000, A=0a, B=05, op=010, result=000f, done=1
+Time=               75000, A=0a, B=05, op=010, result=000f, done=0
+Time=               90000, A=0a, B=05, op=011, result=000f, done=0
+Time=               95000, A=0a, B=05, op=011, result=000f, done=1
+Time=              100000, A=0a, B=05, op=011, result=000f, done=0
+Time=              120000, A=0a, B=05, op=100, result=0005, done=1
+Time=              135000, A=0a, B=05, op=100, result=0005, done=0
+Time=              150000, A=0a, B=05, op=101, result=0005, done=0
+Time=              155000, A=0a, B=05, op=101, result=0032, done=1
+Time=              160000, A=0a, B=05, op=101, result=0032, done=0
+Time=              180000, A=0a, B=05, op=110, result=xxxx, done=1
+Time=              195000, A=0a, B=05, op=110, result=xxxx, done=0
+Time=              215000, A=0a, B=05, op=110, result=0000, done=0
+$finish called at time : 240 ns : File "C:/Users/alanm/Documents/GitHub/ArquitecturaDeComputadoras/Vivado/DiseñoALU/DiseñoALU.srcs/sim_1/new/ALU_tb.v" Line 107

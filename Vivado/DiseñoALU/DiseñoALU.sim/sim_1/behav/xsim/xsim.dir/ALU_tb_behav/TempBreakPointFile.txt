@@ -1,0 +1,4 @@
+Breakpoint File Version 1.0
+30,true,"C:/Users/alanm/Documents/GitHub/ArquitecturaDeComputadoras/Vivado/DiseñoALU/DiseñoALU.srcs/sim_1/new/ALU_tb.v"
+33,true,"C:/Users/alanm/Documents/GitHub/ArquitecturaDeComputadoras/Vivado/DiseñoALU/DiseñoALU.srcs/sim_1/new/ALU_tb.v"
+102,true,"C:/Users/alanm/Documents/GitHub/ArquitecturaDeComputadoras/Vivado/DiseñoALU/DiseñoALU.srcs/sim_1/new/ALU_tb.v"
